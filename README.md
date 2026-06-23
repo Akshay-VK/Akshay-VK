@@ -43,23 +43,3 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Akshay-VK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Akshay's Stats" width="48%"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Akshay-VK&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Akshay-VK&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%"/>
-</p>
-
-#### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Akshay-VK&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-<p align="right">
-  <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=Akshay-VK&icon=0&color=0" alt="Visitor Count"></a>
-</p>
